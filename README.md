@@ -85,9 +85,8 @@ Atualmente, também atuo com tarefas de **DevOps**, cuidando da entrega contínu
 
 ## 📫 Vamos nos conectar?
 
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 📧 Email: **seu@email.com**
-- 💼 Portfólio (opcional): [www.seuportfolio.com](https://www.seuportfolio.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vivaldi-nobela-8767ab28b/)
+- 📧 Email: **nobelavivaldi@gmail.com**
 
 ---
 
