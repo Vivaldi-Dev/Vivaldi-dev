@@ -1,95 +1,185 @@
 <h1 align="center">👋🏽 Olá, eu sou Vivaldi Afonso Nobela JR</h1>
-<h3 align="center">💻 Full-Stack Developer | 📱 Mobile Dev | ⚙️ DevOps Enthusiast</h3>
+
+<h3 align="center">
+  ☁️ Cloud Infrastructure | 🔐 DevSecOps | 💻 Full-Stack & Mobile Engineer
+</h3>
 
 <p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software e soluções que impactam pessoas.<br>
-  Trabalho com <strong>web</strong>, <strong>mobile</strong> e <strong>infraestrutura</strong>, entregando sistemas completos do backend ao deploy.
+  Profissional de tecnologia com foco em <strong>Cloud Infrastructure</strong>, 
+  <strong>DevSecOps</strong>, desenvolvimento web/mobile e segurança aplicada ao ciclo de vida de software.
+</p>
+
+<p align="center">
+  Tenho cerca de <strong>4 anos de experiência</strong>, caminhando para 5, atuando na construção, entrega,
+  monitoramento e proteção de aplicações modernas — do código ao ambiente em produção.
 </p>
 
 ---
 
 ## 🧑🏽‍💻 Sobre mim
 
-Sou um desenvolvedor **Full Stack** com habilidades multidisciplinares que vão desde o desenvolvimento de interfaces com **React**, **React Native** e **Jetpack Compose**, até a construção de **backends robustos** com **Django**, **Node.js**, **Spring Boot** e **Odoo**.
+Sou um profissional de **Cloud Infrastructure e DevSecOps**, com forte background em desenvolvimento **Full-Stack** e **Mobile**.
 
-Atualmente, também atuo com tarefas de **DevOps**, cuidando da entrega contínua, testes, containers, e deploy em nuvem — garantindo que o código em produção seja confiável e performático.
+Atualmente trabalho com infraestrutura em nuvem, automação, observabilidade, segurança de aplicações e práticas modernas de entrega contínua. Tenho experiência no desenvolvimento de aplicações com **Next.js**, **React**, **React Native** e **Jetpack Compose**, além de atuação em ambientes com containers, pipelines, monitoramento e segurança.
 
-🛠 Gosto de aprender constantemente, enfrentar novos desafios e criar soluções escaláveis e bem pensadas.
+Na área de segurança, trabalho com práticas de **SAST**, **DAST**, análise de vulnerabilidades e hardening de aplicações, utilizando ferramentas como **SonarQube**, **OWASP ZAP**, **Burp Suite** e soluções de monitoramento/segurança como **Wazuh**.
+
+Tenho interesse especial em criar ambientes escaláveis, seguros e observáveis, aplicando boas práticas de **DevOps**, **DevSecOps**, **Cloud**, **CI/CD**, **Cybersecurity** e **Site Reliability Engineering**.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Principais áreas de atuação
 
-### 🖥️ Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="Vue" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" />
-</p>
+- ☁️ **Cloud Infrastructure**
+- 🔐 **DevSecOps**
+- 🛡️ **Cybersecurity**
+- 📦 **Containers & CI/CD**
+- 📊 **Observability & Monitoring**
+- 💻 **Full-Stack Development**
+- 📱 **Mobile Development**
+- 🧪 **SAST, DAST & Security Testing**
 
-### 🧠 Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" alt="GraphQL" />
-</p>
+---
 
-### 🗄️ Banco de Dados
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQLite" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" alt="MariaDB" />
-</p>
+## 🧰 Tech Stack
 
-### 📱 Mobile
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="Android" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="Kotlin" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
-</p>
+### ☁️ Cloud, DevOps & Infrastructure
 
-### ⚙️ DevOps & Ferramentas
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" alt="NGINX" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" alt="NGINX" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" alt="Heroku" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" alt="GitHub" />
 </p>
 
----
+**Ferramentas e práticas:**
 
-## 🧠 Atualmente estou focado em:
-
-- 🏗️ Projetos full-stack com React + Django e React Native
-- 🚀 Aprimoramento em práticas de DevOps e escalabilidade
-- 🧪 Testes automatizados, integração contínua e deploy com Docker
-
----
-
-## 📫 Vamos nos conectar?
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vivaldi-nobela-8767ab28b/)
-- 📧 Email: **nobelavivaldi@gmail.com**
+- Docker
+- Kubernetes
+- NGINX
+- CI/CD
+- GitHub Actions
+- Jenkins
+- Linux
+- Cloud Infrastructure
+- Infrastructure as Code
+- Deploy e automação de ambientes
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+### 📊 Observabilidade & Monitoramento
+
+- Grafana
+- Prometheus
+- Loki
+- Logs, métricas e alertas
+- Monitoramento de aplicações e infraestrutura
+
+---
+
+### 🔐 Segurança & DevSecOps
+
+- SonarQube
+- OWASP ZAP Proxy
+- Burp Suite
+- Wazuh
+- SAST
+- DAST
+- Análise de vulnerabilidades
+- Segurança em pipelines CI/CD
+- Noções sólidas de cibersegurança
+- Hardening básico de aplicações e infraestrutura
+
+---
+
+### 🖥️ Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
 </p>
+
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+---
+
+### 📱 Mobile
+
+<p align="left">
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" alt="Android" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="Kotlin" />
+</p>
+
+- React Native
+- Android
+- Kotlin
+- Jetpack Compose
+
+---
+
+### 🧠 Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" alt="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+</p>
+
+- Node.js
+- Django
+- Spring Boot
+- Express.js
+- REST APIs
+- GraphQL
+- Odoo
+
+---
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" alt="MariaDB" />
+</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- MariaDB
+- SQLite
+
+---
+
+## 🎯 Atualmente focado em
+
+- ☁️ Cloud Infrastructure e automação de ambientes
+- 🔐 DevSecOps aplicado ao ciclo de vida de software
+- 📊 Observabilidade com Grafana, Prometheus e Loki
+- 🛡️ Segurança com Wazuh, SonarQube, OWASP ZAP e Burp Suite
+- 🚀 CI/CD, containers, deploy seguro e escalabilidade
+- 📚 Aprofundamento contínuo em cibersegurança
+
+---
+
+## 💼 Perfil profissional
+
+```txt
+Cloud Infrastructure | DevSecOps | Full-Stack Developer | Mobile Developer
